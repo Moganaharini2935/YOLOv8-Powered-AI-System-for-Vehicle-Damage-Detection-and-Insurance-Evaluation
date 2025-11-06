@@ -21,3 +21,6 @@ Rule-Based AI System: Severity scoring and claim evaluation logic
 
 Outcome:
 The project demonstrates how AI and automation can transform the insurance and automotive sectors by reducing manual inspection time and improving claim accuracy. It delivers an efficient, explainable and scalable approach to vehicle damage assessment and insurance claim prediction.
+
+OUTPUT:
+https://github.com/user-attachments/assets/7d083410-ffef-4e74-b060-2eb2c649972a
